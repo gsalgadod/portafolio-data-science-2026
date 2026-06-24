@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+venv/
+.venv/
+*.egg-info/
+
+# Secretos locales de Streamlit (si alguna vez se usan credenciales) — nunca subir
+.streamlit/secrets.toml
+
+# Nota: artifacts/ y data/ SÍ se versionan (ver Guía de convenciones GitHub/Streamlit).
+# No agregar reglas que los ignoren.

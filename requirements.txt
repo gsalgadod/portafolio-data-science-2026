@@ -1,0 +1,14 @@
+# Fase 0 — versiones mínimas, no fijadas todavía.
+# Una vez que cada proyecto pase por "Adaptación GitHub" y se pruebe localmente,
+# fijar la versión exacta (==) con la que el modelo serializado fue entrenado,
+# para evitar que joblib.load()/keras.load_model() falle por incompatibilidad.
+
+streamlit>=1.36
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4
+matplotlib>=3.8
+seaborn>=0.13
+joblib>=1.3
+xgboost>=2.0
+tensorflow>=2.16
