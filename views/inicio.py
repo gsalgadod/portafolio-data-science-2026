@@ -10,7 +10,7 @@ Diplomado en IA (FEN, Universidad de Chile) y bootcamp de Data Science. Cada pá
 incluye un demo interactivo y una pestaña con el detalle metodológico (comparación de
 modelos, ajuste de hiperparámetros, métricas). El notebook completo de cada proyecto,
 con el razonamiento paso a paso, está disponible en la carpeta `notebooks/` del
-[repositorio en GitHub](#).
+[repositorio en GitHub](https://github.com/gsalgadod/portafolio-data-science-2026).
 """
 )
 
